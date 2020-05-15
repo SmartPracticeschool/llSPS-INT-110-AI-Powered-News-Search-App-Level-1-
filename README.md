@@ -5,7 +5,7 @@ This news application is builtusing IBM services like: IBM Discovery Service, IB
 Code is written in Node.js, with the server-side using the Express framework and the client using ReactJS.
 Pre-built Watson Discovery News collection is used
 Watson Discovery service is accessed through the Watson Discovery API 
-#Flow
+
 The user interacts with the Watson Discovery News Server via the app UI.
 User input is processed and routed to the Watson Discovery News Server.
 The Watson Discovery News Server sends user requests to the Watson Discovery Service.
